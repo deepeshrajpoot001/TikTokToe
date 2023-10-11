@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">TikTokToe</string>
+    <string name="status">O\'s Turn - Tap to play</string>
+    <string name="heading">tik tok toe</string>
+    <string name="grid">grid</string>
+</resources>
